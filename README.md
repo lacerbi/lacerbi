@@ -1,4 +1,4 @@
-Please visit my group website at the University of Helsinki [here](https://www.helsinki.fi/en/researchgroups/machine-and-human-intelligence).
+### For more information, visit [my group website](https://www.helsinki.fi/en/researchgroups/machine-and-human-intelligence) at the University of Helsinki.
 
 
 <!--
