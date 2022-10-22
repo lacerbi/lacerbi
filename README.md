@@ -1,4 +1,4 @@
-#### For more information, please visit [my group website](https://www.helsinki.fi/en/researchgroups/machine-and-human-intelligence) at the University of Helsinki or [follow me on Twitter](https://twitter.com/AcerbiLuigi).
+#### For more information on my research work, please visit [my group website](https://www.helsinki.fi/en/researchgroups/machine-and-human-intelligence) at the University of Helsinki or [follow me on Twitter](https://twitter.com/AcerbiLuigi).
 
 
 <!--
