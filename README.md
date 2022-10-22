@@ -1,4 +1,5 @@
-### Hi there 👋
+Please visit my group website at the University of Helsinki [here](https://www.helsinki.fi/en/researchgroups/machine-and-human-intelligence).
+
 
 <!--
 **lacerbi/lacerbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
