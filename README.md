@@ -1,5 +1,5 @@
-#### For more information on my research work, please visit [my group website](https://www.helsinki.fi/en/researchgroups/machine-and-human-intelligence) at the University of Helsinki or [follow me on Twitter](https://twitter.com/AcerbiLuigi).  
-#### For the statistical toolboxes and packages developed by my group, see [my group GitHub page](https://github.com/acerbilab).
+- For more information on my research work, please visit [my group website](https://www.helsinki.fi/en/researchgroups/machine-and-human-intelligence) at the University of Helsinki or [follow me on Twitter](https://twitter.com/AcerbiLuigi).  
+- For the statistical toolboxes and packages developed by my group, see [my group GitHub page](https://github.com/acerbilab).
 
 
 <!--
