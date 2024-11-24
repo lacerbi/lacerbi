@@ -1,4 +1,5 @@
-- For more information on my research work, please visit [my group website](https://www.helsinki.fi/en/researchgroups/machine-and-human-intelligence) at the University of Helsinki or [follow me on Twitter](https://twitter.com/AcerbiLuigi).  
+- My personal webpage is [here](https://lacerbi.github.io/).
+- For more information on my research work, please visit [my group website](https://www.helsinki.fi/en/researchgroups/machine-and-human-intelligence) at the University of Helsinki or [follow me on Bluesky 🦋](https://bsky.app/profile/lacerbi.bsky.social).  
 - For the statistical toolboxes and packages developed by my group, see [my group GitHub page](https://github.com/acerbilab).
 
 
